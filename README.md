@@ -1,42 +1,66 @@
-<!--
-# <img src="https://media.giphy.com/media/el2K0frE08hclZYw1C/giphy.gif" width="90px">Hello! I'm Gamze  
--aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa 
-<img align="rigth" width=300px alt="Unicorn" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" />
 
-  ## 💻 Languages, Libraries and Frameworks:
+# <img src="https://media.giphy.com/media/lMmiMEzAXyDXBCyyNA/giphy.gif" width="90">Hello! I'm Gamze  
 
-<p align="left"> 
-    <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/ > </a>
+<img width="35%" align="right" alt="Github" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" />
+
+<h5 >I am a Junior developer. I really like coding and designing. I care about wide perspective with improving herself from different sides and creates my own life style. Therefore,it's important to take up new challenges and learn new skills for me. I make a point of my work meaningful and functional. 
+ </h5>
+ <br>
+ <p align="center">
+  &emsp; 
+  <a href="https://www.linkedin.com/in/gamzeyaman/" target="_blank"> <img src="https://img.icons8.com/external-justicon-flat-justicon/64/000000/external-linkedin-social-media-justicon-flat-justicon.png" width="25px" /> </a>
+  &emsp; 
+  <a href="mailto:gamze.ymn170@gmail.com" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/gmail-new.png" width="25px" /> </a>
+  &emsp; 
+  <a href="https://www.hackerrank.com/GamzeYaman" target="_blank"> <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/000000/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-color-tal-revivo.png" width="25px" /> </a>
+  &emsp; 
+</p>
+
+## 💻 Skills
+
+### ⭐️ Programming languages
+
+<p align="center"> 
+  &emsp; 
+  <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/ > </a>
+  &emsp;
+  <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
+  &emsp;
+   <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>  
+   &emsp;
+</p>
+
+
+### ⭐️ Front End Development 
+
+<p align="center" > 
+  &emsp; 
+    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a>
+   &emsp;
+  <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
+  &emsp; 
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
-    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
-    <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>  
-    <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
+  &emsp;
+    <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a>
+  &emsp;
 </p>
 
- ## ⭐️ Tools, IDEs and Softwares:
+### ⭐️ IDEs
  
- 
-<p align="left"> 
-  <a href="https://www.jetbrains.com/pycharm/"> <img src="https://miro.medium.com/max/1200/1*6Dhu1H4t028lOGbaZuyRCw.png" alt="express" width="43" height="40" /> </a>
-  <a href="https://www.eclipse.org/ide/"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5EUljSTU4Bl9jRgp5L0v7TUAlB-Ntl0EAIq_FSaofQ7tfCiVrbVW2Bs_24-UPCnRYVBE&usqp=CAU" alt="express" width="40" height="40" /> </a>
-  
-  
+<p align="center">
+  &emsp;
+    <a href="#"><img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" width="43" height="40"></a>
+  &emsp;
+    <a href="https://www.jetbrains.com/pycharm/"> <img src="https://miro.medium.com/max/1200/1*6Dhu1H4t028lOGbaZuyRCw.png" alt="express" width="43" height="40" /> </a>
+  &emsp;
+    <a href="#"> <img src="https://img.icons8.com/color/48/000000/intellij-idea.png" width="43" height="40">  </a>
+  &emsp;
+    <a href="#"><img alt="Eclipse" src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/512/eclipse-icon.png" width="43" height="40" ></a>
 </p>
+ 
 
--->
-<!--
-**GamzeYaman/GamzeYaman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://media.giphy.com/media/6xpBQeimnN5QKT29oQ/giphy.gif" width="120px" >
+</p>
