@@ -3,7 +3,7 @@
 
 <img width="35%" align="right" alt="Github" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" />
 
-<h5 >I am a Junior developer. I really like coding and designing. I care about wide perspective with improving herself from different sides and creates my own life style. Therefore,it's important to take up new challenges and learn new skills for me. I make a point of my work meaningful and functional. 
+<h5 >I am a Junior developer. I really like coding and designing. I care about wide perspective with improving myself from different sides and creates my own life style. Therefore,it's important to take up new challenges and learn new skills for me. I make a point of my work meaningful and functional. 
  </h5>
  <br>
  <p align="center">
