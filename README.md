@@ -43,6 +43,7 @@
   &emsp;
     <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a>
   &emsp;
+    <a href="#"> <img src="https://img.icons8.com/color/48/000000/wordpress.png"/> </a>
 </p>
 
 ### ⭐️ IDEs
