@@ -44,8 +44,6 @@
     <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a>
   &emsp;
     <a href="#"> <img src="https://img.icons8.com/color/48/000000/wordpress.png"/> </a>
-  &emsp;
-    <a href="#"> <img src="![image](https://user-images.githubusercontent.com/71887367/221375488-74ccd937-bb72-43f5-b11a-c4658ff06a04.png)"> </a>
 </p>
 
 ### ⭐️ IDEs
