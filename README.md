@@ -45,7 +45,7 @@
   &emsp;
     <a href="#"> <img src="https://img.icons8.com/color/48/000000/wordpress.png"/> </a>
   &emsp;
-    <a href="#"> <img src="https://icons8.com/icon/wPohyHO_qO1a/react"/> </a>
+    <a href="#"> <img src="https://img.icons8.com/color/48/000000/react.png"/> </a>
 </p>
 
 ### ⭐️ IDEs
