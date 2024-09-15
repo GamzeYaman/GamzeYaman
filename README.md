@@ -1,65 +1,16 @@
 
 # <img src="https://media.giphy.com/media/lMmiMEzAXyDXBCyyNA/giphy.gif" width="90">Hello! I'm Gamze  
 
-<img width="35%" align="right" alt="Github" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" />
-
-<h5 >I am a Java software developer. I really like coding and designing. I care about wide perspective with improving myself from different sides and creates my own life style. Therefore,it's important to take up new challenges and learn new skills for me. I make a point of my work meaningful and functional. 
- </h5>
- <br>
- <p align="center">
-  &emsp; 
-  <a href="https://www.linkedin.com/in/gamzeyaman/" target="_blank"> <img src="https://img.icons8.com/external-justicon-flat-justicon/64/000000/external-linkedin-social-media-justicon-flat-justicon.png" width="25px" /> </a>
-  &emsp; 
-  <a href="mailto:gamze.ymn170@gmail.com" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/gmail-new.png" width="25px" /> </a>
-  &emsp; 
-  <a href="https://www.hackerrank.com/GamzeYaman" target="_blank"> <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/000000/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-color-tal-revivo.png" width="25px" /> </a>
-  &emsp; 
-</p>
-
-## 💻 Skills
-
-### ⭐️ Programming languages
-
-<p align="center"> 
-  &emsp; 
-  <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/ > </a>
-  &emsp;
-  <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
-  &emsp;
-   <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>  
-   &emsp;
-</p>
+# 💫 About Me:
+I am a software developer with two years experience and ongoing to work. I really like coding and designing. I care about wide perspective with improving myself from different sides and creates my own life style. Therefore,it's important to take up new challenges and learn new skills for me. I make a point of my work meaningful and functional.
 
 
-### ⭐️ Front End Development 
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gamzeyaman) 
 
-<p align="center" > 
-  &emsp; 
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a>
-   &emsp;
-  <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
-  &emsp; 
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
-  &emsp;
-    <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a>
-  &emsp;
-    <a href="#"> <img src="https://img.icons8.com/color/48/000000/wordpress.png"/> </a>
-</p>
-
-### ⭐️ IDEs
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)  ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white)
  
-<p align="center">
-  &emsp;
-    <a href="#"><img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" width="43" height="40"></a>
-  &emsp;
-    <a href="https://www.jetbrains.com/pycharm/"> <img src="https://miro.medium.com/max/1200/1*6Dhu1H4t028lOGbaZuyRCw.png" alt="express" width="43" height="40" /> </a>
-  &emsp;
-    <a href="#"> <img src="https://img.icons8.com/color/48/000000/intellij-idea.png" width="43" height="40">  </a>
-  &emsp;
-    <a href="#"><img alt="Eclipse" src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/512/eclipse-icon.png" width="43" height="40" ></a>
-</p>
- 
-
 ##
 
 <p align="center">
